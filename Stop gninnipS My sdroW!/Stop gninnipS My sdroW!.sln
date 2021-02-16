@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop gninnipS My sdroW!", "Stop gninnipS My sdroW!\Stop gninnipS My sdroW!.csproj", "{A2609DC9-AED6-41D1-8B58-97DF348A8DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2609DC9-AED6-41D1-8B58-97DF348A8DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2609DC9-AED6-41D1-8B58-97DF348A8DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2609DC9-AED6-41D1-8B58-97DF348A8DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2609DC9-AED6-41D1-8B58-97DF348A8DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372CE66C-6EE8-4569-8B10-4E11BC3EAB51}
+	EndGlobalSection
+EndGlobal

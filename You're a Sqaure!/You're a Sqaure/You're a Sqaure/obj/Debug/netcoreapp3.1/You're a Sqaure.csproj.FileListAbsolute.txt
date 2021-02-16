@@ -1,0 +1,13 @@
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.exe
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.deps.json
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.runtimeconfig.json
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.runtimeconfig.dev.json
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.dll
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\bin\Debug\netcoreapp3.1\You're a Sqaure.pdb
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.csprojAssemblyReference.cache
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.AssemblyInfoInputs.cache
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.AssemblyInfo.cs
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.csproj.CoreCompileInputs.cache
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.dll
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.pdb
+C:\Users\Student\GitHub\Codewars\You're a Sqaure!\You're a Sqaure\You're a Sqaure\obj\Debug\netcoreapp3.1\You're a Sqaure.genruntimeconfig.cache

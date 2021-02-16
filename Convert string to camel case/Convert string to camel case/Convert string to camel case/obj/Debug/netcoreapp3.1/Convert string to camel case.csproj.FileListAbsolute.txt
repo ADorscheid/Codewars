@@ -1,0 +1,13 @@
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.exe
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.deps.json
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.runtimeconfig.json
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.runtimeconfig.dev.json
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.dll
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\bin\Debug\netcoreapp3.1\Convert string to camel case.pdb
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.csprojAssemblyReference.cache
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.AssemblyInfoInputs.cache
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.AssemblyInfo.cs
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.csproj.CoreCompileInputs.cache
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.dll
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.pdb
+C:\Users\Student\GitHub\Codewars\Convert string to camel case\Convert string to camel case\Convert string to camel case\obj\Debug\netcoreapp3.1\Convert string to camel case.genruntimeconfig.cache

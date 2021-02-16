@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "You're a Sqaure/1.0.0": {
+        "runtime": {
+          "You're a Sqaure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "You're a Sqaure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
