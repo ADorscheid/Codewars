@@ -1,0 +1,12 @@
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.exe
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.deps.json
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.runtimeconfig.json
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.runtimeconfig.dev.json
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.dll
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\bin\Debug\netcoreapp3.1\1 divided by n- cycle.pdb
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.AssemblyInfoInputs.cache
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.AssemblyInfo.cs
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.csproj.CoreCompileInputs.cache
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.dll
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.pdb
+C:\Users\akdor\source\repos\1 divided by n- cycle\1 divided by n- cycle\obj\Debug\netcoreapp3.1\1 divided by n- cycle.genruntimeconfig.cache

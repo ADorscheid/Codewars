@@ -1,0 +1,13 @@
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.csprojAssemblyReference.cache
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.AssemblyInfoInputs.cache
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.AssemblyInfo.cs
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.csproj.CoreCompileInputs.cache
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.exe
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.deps.json
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.runtimeconfig.json
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.runtimeconfig.dev.json
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.dll
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits and Digital Root.pdb
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.dll
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.pdb
+C:\Users\akdor\source\repos\Sum of Digits and Digital Root\Sum of Digits and Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits and Digital Root.genruntimeconfig.cache

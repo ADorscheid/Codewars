@@ -1,0 +1,13 @@
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.exe
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.deps.json
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.runtimeconfig.json
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.runtimeconfig.dev.json
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.dll
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\bin\Debug\netcoreapp3.1\Roman Numerals Converter.pdb
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.AssemblyInfoInputs.cache
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.AssemblyInfo.cs
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.csproj.CoreCompileInputs.cache
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.dll
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.pdb
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.genruntimeconfig.cache
+C:\Users\akdor\source\repos\Roman Numerals Converter\Roman Numerals Converter\obj\Debug\netcoreapp3.1\Roman Numerals Converter.csprojAssemblyReference.cache
